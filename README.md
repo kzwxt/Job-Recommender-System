@@ -14,6 +14,7 @@ An intelligent content-based job recommendation system that parses resumes, matc
 - **2,277 job descriptions** from various tech roles
 - Fields: Job Title, Job Description
 - Source: `data/raw/job_title_des.csv`
+- Data Source: https://www.kaggle.com/datasets/kshitizregmi/jobs-and-job-description
 
 ## 🚀 Quick Start
 
